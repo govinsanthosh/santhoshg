@@ -37,4 +37,10 @@
   <img decoding="async" src="https://img.shields.io/badge/MySQL-42759C?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
   <img decoding="async" src="https://img.shields.io/badge/Google_Sheets-00AC47?style=for-the-badge&logo=google-sheets&logoColor=white" alt="google sheets"/>
   <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
-  
+
+
+## 📊 Projects :
+
+<h3 id="power-bi">Power BI</h3>
+
+👉 [IPL AUCTION ANALYSIS 2025 ] (https://app.powerbi.com/view?r=eyJrIjoiZGZjZTMzMzEtMjI1NS00NDcwLTlhMjUtNjBkYjI2ZjhiMmY5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=9342ca8bbb82b96be255)
