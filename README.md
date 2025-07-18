@@ -3,7 +3,7 @@
 
 <p align="center">
   <!-- LinkedIn Badge -->
-  <a href="https:https://www.linkedin.com/in/santhosh-g-b580ba89/" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/santhosh-g-b580ba89/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-bottom: -4px;"/>
   </a>
 
