@@ -1,6 +1,12 @@
 # Santhosh G
 <img width="1000" height="212" alt="Gitup Cover" src="https://github.com/user-attachments/assets/b516ab60-feeb-47d2-a94c-f7de0e4be319" />
 
+<p align="center">
+  <!-- LinkedIn Badge -->
+  <a href="https:https://www.linkedin.com/in/santhosh-g-b580ba89/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin-bottom: -4px;"/>
+  </a>
+
 # 👩‍💻 About me :
 
 👋 Hi there! I’m a Data Intelligence professional with a strong background in market research, data visualization, and business intelligence. At Hexaware Technologies, I lead Power BI-driven research projects that translate complex data into actionable insights for clients in the information services domain.
