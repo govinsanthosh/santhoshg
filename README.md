@@ -43,4 +43,4 @@
 
 <h3 id="power-bi">Power BI</h3>
 
-👉 [IPL AUCTION ANALYSIS 2025 ] (https://app.powerbi.com/view?r=eyJrIjoiZGZjZTMzMzEtMjI1NS00NDcwLTlhMjUtNjBkYjI2ZjhiMmY5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=9342ca8bbb82b96be255)
+👉 [IPL AUCTION ANALYSIS 2025 ](https://app.powerbi.com/view?r=eyJrIjoiZGZjZTMzMzEtMjI1NS00NDcwLTlhMjUtNjBkYjI2ZjhiMmY5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=9342ca8bbb82b96be255)
